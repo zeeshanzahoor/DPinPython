@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DPinPython", "DPinPython\DPinPython.pyproj", "{051D0CF6-DFEB-47AE-B621-1D7E186FE1DF}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PArray", "PArray\PArray.pyproj", "{C4C6F043-652F-45D5-A0E8-F8E343223FE4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PString", "PString\PString.pyproj", "{DC50DF3C-F5D0-41FD-BF9A-007F4DC0C9DA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PJson", "PJson\PJson.pyproj", "{C8414B02-A521-4F4D-B06D-DED72596BB80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{051D0CF6-DFEB-47AE-B621-1D7E186FE1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{051D0CF6-DFEB-47AE-B621-1D7E186FE1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C6F043-652F-45D5-A0E8-F8E343223FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C6F043-652F-45D5-A0E8-F8E343223FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC50DF3C-F5D0-41FD-BF9A-007F4DC0C9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC50DF3C-F5D0-41FD-BF9A-007F4DC0C9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8414B02-A521-4F4D-B06D-DED72596BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8414B02-A521-4F4D-B06D-DED72596BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
